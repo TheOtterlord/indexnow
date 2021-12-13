@@ -1,0 +1,22 @@
+{
+  "name": "indexnow",
+  "version": "0.1.0",
+  "description": "An IndexNow wrapper for TypeScript/JavaScript.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "author": "Reuben Tier",
+  "keywords": [
+    "indexnow",
+    "seo"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.2"
+  },
+  "dependencies": {
+    "node-fetch": "^2.0.0"
+  }
+}

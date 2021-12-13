@@ -1,0 +1,7 @@
+.github/
+.vscode/
+deno/
+.gitattributes
+.gitignore
+index.ts
+tsconfig.json
