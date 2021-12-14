@@ -16,7 +16,7 @@ yarn add indexnow
 ### Deno
 
 ```js
-import IndexNow from 'https://deno.land/x/indexnow.js@0.1.0/mod.ts'
+import IndexNow from 'https://deno.land/x/indexnow.js@0.1.1/mod.ts'
 ```
 
 ## Usage
